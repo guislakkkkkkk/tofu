@@ -1,0 +1,32 @@
+{
+	"storyName": "This MF Brought me tofu...",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "tofu",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		255,
+		0,
+		0
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Tofu",
+			"STARVED",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		"egg"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Funni Mod"
+}
