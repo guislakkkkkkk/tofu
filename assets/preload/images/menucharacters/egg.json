@@ -1,0 +1,11 @@
+{
+	"idle_anim": "Menu_Egg idle",
+	"image": "Menu_Egg",
+	"position": [
+		436,
+		20
+	],
+	"flipX": false,
+	"scale": 1,
+	"confirm_anim": "M Dad Idle"
+}
