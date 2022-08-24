@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Menu_Egg.png">
+<SubTexture name="Menu_Egg idle0000" x="0" y="0" width="539" height="364" frameX="-17" frameY="-61" frameWidth="531" frameHeight="386" />
+<SubTexture name="Menu_Egg idle0001" x="0" y="364" width="555" height="362" frameX="-3" frameY="-63" frameWidth="531" frameHeight="386" />
+<SubTexture name="Menu_Egg idle0002" x="0" y="726" width="557" height="419" frameX="-6" frameY="-6" frameWidth="531" frameHeight="386" />
+<SubTexture name="Menu_Egg idle0003" x="0" y="1145" width="560" height="417" frameX="-3" frameY="-6" frameWidth="531" frameHeight="386" />
+<SubTexture name="Menu_Egg idle0004" x="0" y="1562" width="560" height="420" frameX="-3" frameY="-6" frameWidth="531" frameHeight="386" />
+</TextureAtlas>
