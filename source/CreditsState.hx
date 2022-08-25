@@ -87,6 +87,7 @@ class CreditsState extends MusicBeatState
 			[''],
 			['Cara q fez o port lol'],
 			['Guislakkkk',	'gui',				'lol',					'https://youtube.com/channel/UCVniqkS8csFDi8U2N6UrVhQ', 	'FE0015'],
+			['Dxgamer',	'dx',				'ajudou resolver o plobema no stage',					'https://youtube.com/c/Dxgamer7405', 	'FE0015'],
 			[''],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',								'https://twitter.com/Shadow_Mario_',	'444444'],
