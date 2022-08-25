@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="TofuBG.png">
+<SubTexture name="TofuBG idle0000" x="0" y="0" width="1448" height="827" frameX="0" frameY="0" frameWidth="1448" frameHeight="827" />
+<SubTexture name="TofuBG idle0001" x="1448" y="0" width="1448" height="827" frameX="0" frameY="0" frameWidth="1448" frameHeight="827" />
+<SubTexture name="TofuBG idle0002" x="0" y="827" width="1448" height="827" frameX="0" frameY="0" frameWidth="1448" frameHeight="827" />
+<SubTexture name="TofuBG idle0003" x="1448" y="827" width="1448" height="827" frameX="0" frameY="0" frameWidth="1448" frameHeight="827" />
+<SubTexture name="TofuBG idle0004" x="0" y="1654" width="1448" height="827" frameX="0" frameY="0" frameWidth="1448" frameHeight="827" />
+<SubTexture name="TofuBG idle0005" x="1448" y="1654" width="1448" height="827" frameX="0" frameY="0" frameWidth="1448" frameHeight="827" />
+</TextureAtlas>
